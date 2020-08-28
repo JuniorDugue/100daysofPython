@@ -4,6 +4,8 @@ mood = 'im excited'
 strength = 100.5
 rank = 10
 
+
+
 # assign numbers to 'x', 'y', and 'z'. Calculate the sum of 'x', 'y' and 'z' in 'z'. Print out the value of 's'
 x = 10
 y = 20
